@@ -26,7 +26,7 @@ Student Portal Project/
 ## Run The Project In VS Code
 
 Open this folder in VS Code:
-Save this whole Project in a folder named "Student Portal Project"
+Save this whole Project in a folder named "Student Portal Project". Decompress "node_modules.zip" folder first in frontend file.
 ```bash
 code "/your path/Student Portal Project"
 ```
@@ -64,7 +64,7 @@ http://127.0.0.1:8000/admin/
 ```
 
 ### 2. Start The Frontend
-
+Decompress "node_modules.zip" folder first in frontend file.
 Open a second VS Code terminal:
 
 ```bash
