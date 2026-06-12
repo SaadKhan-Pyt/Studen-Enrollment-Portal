@@ -26,9 +26,9 @@ Student Portal Project/
 ## Run The Project In VS Code
 
 Open this folder in VS Code:
-
+Save this whole Project in a folder named "Student Portal Project"
 ```bash
-code "/Users/apple/Documents/Student Portal Project"
+code "/your path/Student Portal Project"
 ```
 
 ### 1. Start The Backend
@@ -121,24 +121,6 @@ Protected API requests use this header:
 
 ```text
 Authorization: Token your_token_here
-```
-
-## Submission Notes
-
-The PDF asks for:
-
-- GitHub link
-- Screenshots of the output
-- Group member names
-
-Suggested Git commands:
-
-```bash
-git add .
-git commit -m "Build student portal full stack app"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
 ```
 
 ## Troubleshooting
